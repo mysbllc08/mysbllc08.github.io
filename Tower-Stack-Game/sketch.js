@@ -3,7 +3,7 @@ const trio_colours = [
 ];
 
 let angle = 0;          
-let angleSpeed = 0.1;    
+let angleSpeed = 0.04;    
 let left_right = 140; 
 let centerX = 400 / 2; 
 let stackedBlocks = [];   
